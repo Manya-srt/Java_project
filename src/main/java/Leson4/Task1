@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-package Lesson4;
+package Leson4;
 
 /**
  * Есть входной файл с набором слов, написанных через пробел 
@@ -16,8 +16,6 @@ package Lesson4;
  */
 
 public class Task6 {
-
-    public static void main(String[] args) {
         Scanner scanner = null;
 
         // Считываем слова из файла
