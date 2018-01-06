@@ -15,7 +15,8 @@ package Leson4;
  * Вывести на консоль это слово и сколько раз оно встречается в файле
  */
 
-public class Task6 {
+public class Task1 {
+        public static void main(String[] args) {
         Scanner scanner = null;
 
         // Считываем слова из файла
