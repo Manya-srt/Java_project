@@ -21,7 +21,7 @@ public class Task1 {
 
         // Считываем слова из файла
         try {
-            scanner = new Scanner(new File("J:\\Java_project/src/main/java/Leson4/slova.txt"));
+            scanner = new Scanner(new File("C:\\Java_project/src/main/java/Leson4/slova.txt"));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
